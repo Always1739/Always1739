@@ -5,10 +5,7 @@
 ## Overview
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=always1739&theme=github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=always1739&theme=github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=always1739&theme=github&utcOffset=5" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=always1739&theme=github" />  
+Results-driven software developer with 6 years of experience in full-stack development and a strong focus on delivering innovative solutions. Proficient in leveraging modern technologies to enhance user experiences and optimize performance. Adept at collaborating in agile environments and mentoring junior developers. Passionate about using technology to solve real-world challenges and drive business success.
 </div>
 
 ## Prefered Technicals
