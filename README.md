@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=60&pause=1000&center=true&vCenter=true&width=600&height=100&lines=If+you+live+each+day,+as+if+it+was+your+last+someday+you+will+certainly+be+right.;Stay+Hungry+Stay+Foolish." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=60&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Stay+Hungry+Stay+Foolish.;You+Fall,+You+Stand+up." alt="Typing SVG" /></a>
 </div>
 
 ## Overview
