@@ -5,8 +5,8 @@
 ## Overview
 
 <div align="center">
-Results-driven software developer with 6 years of experience in full-stack development and a strong focus on delivering innovative solutions.<br/>
-Proficient in leveraging modern technologies to enhance user experiences and optimize performance. Adept at collaborating in agile environments and mentoring junior developers. Passionate about using technology to solve real-world challenges and drive business success.
+<h4>Results-driven software developer with 6 years of experience in full-stack development and a strong focus on delivering innovative solutions.</h4>
+<p>Proficient in leveraging modern technologies to enhance user experiences and optimize performance. Adept at collaborating in agile environments and mentoring junior developers. Passionate about using technology to solve real-world challenges and drive business success.</p>
 </div>
 
 ## Prefered Technicals
