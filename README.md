@@ -1,14 +1,14 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=60&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Stay+Hungry+Stay+Foolish.;You+Fall,+You+Stand+up." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=60&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Stay+Hungry,+Stay+Foolish.;You+Fall,+You+Stand+up." alt="Typing SVG" /></a>
 </div>
 
 ## Overview
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elitesuper&theme=github&utcOffset=5" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elitesuper&theme=github" />  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=always1739&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=always1739&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=always1739&theme=github&utcOffset=5" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=always1739&theme=github" />  
 </div>
 
 ## Prefered Technicals
